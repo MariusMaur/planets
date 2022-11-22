@@ -2,5 +2,5 @@
 
 ---
 
-This is my planets folder for the IN-BIOS course.
+This is my planets folder for the BIOS-IN course.
 Enjoy!
